@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+.container-fluid{
+  
+}
+.card{
+   margin-top: 50px;
+   font-family: 'Arvo', serif;
+   font-size: 40px;
+   background: rgba(32, 136, 196, 0.151);
+}
+.card-header{
+    font-size:x-large ;
+    background: rgb(205, 238, 238);
+}
+.card-city{
+    font-size: 32px;
+}
+
+.card-date{
+    font-size: 25px; /* 1rem = 16px */
+    margin-bottom: 1rem;
+}
+
+
+.container-temp {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    
+}
+
+.weather{
+    font-size: 2rem;
+}
+
+.low-high {
+    font-size: 22px;
+}
+
+.card-footer{
+    background: rgb(205, 238, 238);
+}
+.imput-group {
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+    gap: 10px;
+    
+}
